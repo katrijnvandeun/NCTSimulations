@@ -7,7 +7,6 @@ It also allows to reproduce the Monte Carlo simulation described in the paper.
 Reference:
 de Rooij, B., et al. (2021). Symptom clusters in survivors of 7 seven cancer types from the PROFILES registry: A Network analysis. Manuscript submitted for publication. 
 
-To reproduce the analysis of the influenza data discussed in the paper, take the following steps.
 
 ## 1. CREATE DATA
 
