@@ -13,11 +13,11 @@ To reproduce the analysis of the influenza data discussed in the paper, take the
 
 Either,
 
--Run the R script *R/SCRIPT_READDATA.R*. This script reads and processes the original SPSS data that were obtained from the PROFILES registry. The data are not publicly available but access can be requested. 
+-Run the R script *R/Script_MakeEmpiricalData.R*. This script reads and processes the original SPSS data that were obtained from the PROFILES registry. The data are not publicly available but access can be requested. 
 
 or,
 
--Run the R script *R/SCRIPT_MAKEDATA.R* to obtain artificial data with the same structure as the empirical data. These artificial data are mainly provided for convenience, to allow trying out the provided functions and scripts.
+-Run the R script *R/Script_ArtificialData.R* to obtain artificial data with the same structure as the empirical data. These artificial data are mainly provided for convenience, to allow trying out the provided functions and scripts.
 
 ## 2. MONTE CARLO SIMULATIONS
 
